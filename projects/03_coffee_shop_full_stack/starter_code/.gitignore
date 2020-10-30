@@ -1,7 +1,6 @@
-venv/
-.vscode/
-__pycache__/
-test.db
+.vscode
+__pycache__
+venv
 
 # OS generated files #
 ######################
@@ -12,3 +11,42 @@ test.db
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+.idea
+*.iml
+
+# Linux
+# backup files
+*~
+
+# Windows
+# thumbnails
+Thumbs.db
+
+# Mac OS X
+# metadata
+.DS_Store
+# thumbnails
+._*
+
+# GIT
+.git/
+
+# Java
+*.class
+
+# packages 
+*.jar
+*.war
+*.ear
+
+# Logging
+*.log
+
+# jME (binaries)
+*.so
+
+# python
+*.pyc
+
+*/frontend/node_modules/

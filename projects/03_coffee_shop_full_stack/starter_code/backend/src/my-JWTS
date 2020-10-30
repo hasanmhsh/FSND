@@ -1,0 +1,13 @@
+// parista role JWT = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImFFWG4wWEFFUl9TZUNJODlETDhhbSJ9.eyJpc3MiOiJodHRwczovL2Rldi10djhpbG01NC51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWY5OWVmYzc4ZTM2YWMwMDY5ZTkxZjcwIiwiYXVkIjoiY2FmZWUiLCJpYXQiOjE2MDQwMjkwNjAsImV4cCI6MTYwNDAzNjI2MCwiYXpwIjoiYzdKTGpUSTF4d1huTTJkUjFMdTJ0VGpsTjhDOVJQYmUiLCJzY29wZSI6IiIsInBlcm1pc3Npb25zIjpbImdldDpkcmlua3MtZGV0YWlsIl19.sINvOxfq4Xx6JonkAnOKYINwEpp-V_fy09y7KfU8pO7IokjaYxt_EWZz5s7pHg-krd5H3dCHBeJMV8vk_roG-BuQQ9iRrtpExULmbKCqNYEoZcmqMr6hCJxT1yhrOvHN9_zDjFsw7mWNWhQ6KhRLu7aonh8isLnQskXN1FEtqskYKao8wnyxCQ6EBhdaL81UDfU90rFktNt9Bdv9Esc5rROfYCFYYBpZMrTfVIHtRH10-drLH7nmFmfvqTb8WIFXU-69qxcGLLP33fvEc_mKndET7_dNNfXVFT8RcDOa3xP2f1OXalIr30f9nK6ObFvKs74ma8F-mnCdBKdF_xAEtA
+
+//manager role jwt = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImFFWG4wWEFFUl9TZUNJODlETDhhbSJ9.eyJpc3MiOiJodHRwczovL2Rldi10djhpbG01NC51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWY5OWVmZjY4ZTM2YWMwMDY5ZTkxZjc3IiwiYXVkIjoiY2FmZWUiLCJpYXQiOjE2MDQwMjkyMzQsImV4cCI6MTYwNDAzNjQzNCwiYXpwIjoiYzdKTGpUSTF4d1huTTJkUjFMdTJ0VGpsTjhDOVJQYmUiLCJzY29wZSI6IiIsInBlcm1pc3Npb25zIjpbImRlbGV0ZTpkcmlua3MiLCJnZXQ6ZHJpbmtzLWRldGFpbCIsInBhdGNoOmRyaW5rcyIsInBvc3Q6ZHJpbmtzIl19.ImJQAt102Y8PB9L2y7nHxc-zHA3FlgiPGiQZLfOyX2v8n7tF2pXB8Y-qmZfDY5S9EHFWr-_D-thteTSR_PcEJrTHrUqK-MWOoiTLXldidchOVE67_YcaygUkqkK0XhSbCH8RQ7qMx1SJE1j2TNJgt4qaEK9mKdJFtduFUe-rnGeuGPoJP3Jk-97dP_nPFmH42QiibQP1j-nCZRPGIzCFuzbUHhNBOSPZaqWuRiGmWJ1OeJdvftBvWUOQjTF1ivfB31v_rIVlp25bGjFeC34e1DLVWGfWrlhqjidaZJXboDHtPktH6kkXctKIkGkP1ltML_s7HPAUWGVYBjlQWQVY0g
+
+here is my jwts which i have used in integration test with postman
+
+parista role user account 
+login                  :         parista@cafee.local
+password         :         parista
+
+manager role user account 
+login                  :         manager@cafee.local
+password         :         manager
